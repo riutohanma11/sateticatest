@@ -11,14 +11,14 @@ def multiplicacion(num1, num2):
 def division(num1, num2):
     return num1 / num2
  
-# Menú principal
+# Menú principalggg
 print("Por favor, elige una operación:")
 print("1. Suma")
 print("2. Resta")
 print("3. Multiplicación")
 print("4. División")
  
-# Solicitar al usuario que ingrese la opciónsssssss
+# Solicitar al usuario que ingrese la opciónssssssssssss
 opcion = input("Ingresa una opción (1/2/3/4): ")
  
 # Solicitar al usuario que ingrese los números
