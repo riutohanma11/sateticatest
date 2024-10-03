@@ -18,7 +18,7 @@ print("2. Resta")
 print("3. Multiplicación")
 print("4. División")
  
-# Solicitar al usuario que ingrese la opción
+# Solicitar al usuario que ingrese la opciónsssssss
 opcion = input("Ingresa una opción (1/2/3/4): ")
  
 # Solicitar al usuario que ingrese los números
